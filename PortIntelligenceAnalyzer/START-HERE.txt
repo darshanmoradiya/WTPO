@@ -1,0 +1,54 @@
+============================================
+  PORT INTELLIGENCE ANALYZER
+  Simple Quick Start Guide
+============================================
+
+EASIEST WAY (No commands needed!):
+-----------------------------------
+Just double-click: START.bat
+
+
+OR EASY WAY (PowerShell):
+--------------------------
+1. Open PowerShell
+2. Go to this folder
+3. Type: .\Run.ps1
+4. Choose what you want to do!
+
+
+THAT'S IT!
+----------
+The simple runner will guide you through everything.
+
+
+WHAT EACH OPTION DOES:
+-----------------------
+1. Scan All Ports
+   - Shows every open port on your computer
+   - Color-coded by risk level
+
+2. Find Dangerous Ports Only
+   - Shows ONLY critical/high risk ports
+   - Use this for quick security check
+
+3. Generate HTML Report
+   - Creates a nice web report
+   - Opens automatically in browser
+   - Good for sharing with others
+
+4. Monitor Ports (Real-time)
+   - Watches for new ports opening
+   - Runs for 2 minutes
+   - Alerts you to changes
+
+
+COMMAND LINE (If You Need It):
+-------------------------------
+cd "d:\darshan\project\WTPO\PortIntelligenceAnalyzer"
+.\Run.ps1
+
+
+NEED HELP?
+----------
+Read: README.md (full documentation)
+Or:   QUICKSTART.md (detailed examples)
